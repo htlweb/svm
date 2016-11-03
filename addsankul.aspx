@@ -36,7 +36,7 @@
                     </div>
 
                        <div class="form-group">
-                    <label>sankul Name:</label>
+                    <label>sankulll Name:</label>
                   
                      
                      <asp:TextBox runat="server" class="form-control" id="TextBox2" placeholder="Enter Sankul Name"></asp:TextBox>
